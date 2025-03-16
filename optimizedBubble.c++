@@ -1,5 +1,9 @@
+
 // Optimized code of bubble sort
+
+// 
 #include <iostream>
+
 using namespace std;
 // perform bubble sort
 void bubbleSort(int array[], int size) {
